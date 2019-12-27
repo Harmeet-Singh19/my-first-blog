@@ -1,0 +1,14 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+myvenv
+db.sqlite3
+ansel
+bin
+.obj
+Dropbox
+OneDrive
+Downloads
+/static
+.DS_Store
